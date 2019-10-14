@@ -2,9 +2,7 @@ This zip folder contains the entire project
 
 ** Note You must have MongoDb Installed with Users as a DB in it
 ** This Project is still in work lacks Disscussion area for communities
-** this uses a fully Functional database for login you might
-   fail to log in due to database errors but you can check out
-   code 
+
 
 >>To run this project you must
   1. Download and extract Files
